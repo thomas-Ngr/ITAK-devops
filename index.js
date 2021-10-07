@@ -17,8 +17,22 @@ app.get('/getAll', (req, res) => {
 
 // GET one random user
 app.get('/getOne', (req, res) => {
-    let randomUserIndex = Math.floor(Math.random() * usersList.length)
+    const randomUserIndex = Math.floor(Math.random() * usersList.length)
     res.send(usersList[randomUserIndex])
+});
+
+app.get('/getById/:userId', (req, res) => {
+    const userId = req.params['userId']
+    if (userId <= (usersList.length)) {
+        usersList.map( (user) => {
+            if (user["id"] == userId) {
+                res.send(user)
+            }
+        })
+    } else {
+        res.status(404)
+        res.send("ERROR: User does not exist")
+    }
 });
 
 // make server listen
