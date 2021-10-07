@@ -1,68 +1,60 @@
 {
-    "users" : [
-
+    "users": [
         {
-            "id" : 1,
-            "username" : "Julien69",
-            "firstname" : "Julien",
-            "lastname" : "Oppliger",
-            "email" : "julien@oppliger.com",
-            "birth_date" : "10/04/1991",
-            "creation_date" : "22/09/2021",
-            "update_time" : "",
-            "gender" : "",
-            "description" : "Circumfusus supercilia quievere confisi lucem et sed per circumfusus ac terrorem qui per arduis quievere.",
-            "photo" : "",
-            "password" : "ceciestunmotdepasse"
+            "id": 1,
+            "username": "Julien69",
+            "firstname": "Julien",
+            "lastname": "Oppliger",
+            "email": "julien@oppliger.com",
+            "birth_date": "10/04/1991",
+            "creation_date": "22/09/2021",
+            "update_time": "",
+            "gender": "",
+            "description": "Circumfusus supercilia quievere confisi lucem et sed per circumfusus ac terrorem qui per arduis quievere.",
+            "photo": "",
+            "password": "ceciestunmotdepasse"
         },
-
         {
-            "id" : 2,
-            "username" : "Mathieu69",
-            "firstname" : "Mathieu",
-            "lastname" : "Daniere",
-            "email" : "mathieu@daniere.com",
-            "birth_date" : "20/05/2000",
-            "creation_date" : "10/09/2021",
-            "update_time" : "",
-            "gender" : "",
-            "description" : "Circumfusus supercilia quievere confisi lucem et sed per circumfusus ac terrorem qui per arduis quievere.",
-            "photo" : "",
-            "password" : "ceciestmotdepasse"
+            "id": 2,
+            "username": "Mathieu69",
+            "firstname": "Mathieu",
+            "lastname": "Daniere",
+            "email": "mathieu@daniere.com",
+            "birth_date": "20/05/2000",
+            "creation_date": "10/09/2021",
+            "update_time": "",
+            "gender": "",
+            "description": "Circumfusus supercilia quievere confisi lucem et sed per circumfusus ac terrorem qui per arduis quievere.",
+            "photo": "",
+            "password": "ceciestmotdepasse"
         },
-
         {
-            "id" : 3,
-            "username" : "Idriss69",
-            "firstname" : "Idriss",
-            "lastname" : "Taguine",
-            "email" : "idriss@taguine.com",
-            "birth_date" : "07/08/1994",
-            "creation_date" : "02/10/2021",
-            "update_time" : "",
-            "gender" : "",
-            "description" : "Circumfusus supercilia quievere confisi lucem et sed per circumfusus ac terrorem qui per arduis quievere.",
-            "photo" : "",
-            "password" : "cecipasse"
+            "id": 3,
+            "username": "Idriss69",
+            "firstname": "Idriss",
+            "lastname": "Taguine",
+            "email": "idriss@taguine.com",
+            "birth_date": "07/08/1994",
+            "creation_date": "02/10/2021",
+            "update_time": "",
+            "gender": "",
+            "description": "Circumfusus supercilia quievere confisi lucem et sed per circumfusus ac terrorem qui per arduis quievere.",
+            "photo": "",
+            "password": "cecipasse"
         },
-
         {
-            "id" : 4,
-            "username" : "Anass69",
-            "firstname" : "Anass",
-            "lastname" : "El Youbi",
-            "email" : "anass@elyoubi.fr",
-            "birth_date" : "10/05/1996",
-            "creation_date" : "19/09/2021",
-            "update_time" : "",
-            "gender" : "",
-            "description" : "Circumfusus supercilia quievere confisi lucem et sed per circumfusus ac terrorem qui per arduis quievere.",
-            "photo" : "",
-            "password" : "voilaunmotdepasse"
+            "id": 4,
+            "username": "Anass69",
+            "firstname": "Anass",
+            "lastname": "El Youbi",
+            "email": "anass@elyoubi.fr",
+            "birth_date": "10/05/1996",
+            "creation_date": "19/09/2021",
+            "update_time": "",
+            "gender": "",
+            "description": "Circumfusus supercilia quievere confisi lucem et sed per circumfusus ac terrorem qui per arduis quievere.",
+            "photo": "",
+            "password": "voilaunmotdepasse"
         }
     ]
-
-
-
-
 }
