@@ -1,3 +1,8 @@
+/*
+This file was written by Tom Ngr.
+It is released under the terms of What The Fuck Public Licence : do what the fuck you want with it.
+*/
+
 const express = require('express');
 var fs = require('fs');
 
